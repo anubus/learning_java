@@ -13,7 +13,7 @@ public class HelloComponent3 extends JComponent implements MouseMotionListener, 
 	
 	int colorIndex;   //current index into someColors
 	static Color[] someColors = {
-		Color.black, Color.red, Color.green, Color.blue, Color.magenta 
+		Color.black, Color.red, Color.green, Color.blue, Color.magenta, Color.orange
 	};
 	
 	public HelloComponent3( String message ) {
